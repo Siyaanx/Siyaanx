@@ -3,7 +3,7 @@
 😊
 - 🌱 I’m currently learning Figma & Cloud engineering following the Learn to Cloud (LTC) roadmap.
 - 👯 I’m looking to collaborate on any project whatsoever, as long as it's helpful.
-<!- 🤔 I’m looking for help with >
+- 👩🏽‍💼 I'm an AWS Certified Cloud Practitioner & Solution Architect
 - 💬 Ask me about algebra, statistics, fractals, colours, and AWS
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to play Candy Crush
