@@ -11,6 +11,7 @@
   - [ ] a cloud project on serverless architecture and deployment using AWS Lambda
   - [ ] UI design for a bioinformatics calculator (py)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariam-siyanbola/)
+- 🌐 Still here? Check my [website](https://bit.ly/MariamSiyanbola)
 </br>
 
   > "Buildings that lie so exposed to the weather need a good foundation " </br> ~ William Penn
